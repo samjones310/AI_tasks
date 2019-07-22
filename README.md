@@ -5,5 +5,5 @@ Day-1 To read a csv file,perform operations on the numerical columns(Task-2) and
 Day-2 Bank churn dataset descriptive analysis. <br />
 Day-3 To use univariate analysis and changing skewness to normal distribution.
 Day-4 Multivariate analysis and radar plots. <br />
-Day-5 Hypotheis.
+Day-5 Hypotheis testing and confidence intervals.
 
